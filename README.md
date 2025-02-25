@@ -1,2 +1,2 @@
-# TypescriptProject2
-Online shopping
+# Online shopping simulator
+
